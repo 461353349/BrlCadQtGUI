@@ -1,0 +1,3 @@
+#define BRLCAD_LIB_MAJOR 7
+#define BRLCAD_LIB_MINOR 26
+#define BRLCAD_LIB_PATCH 0
